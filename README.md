@@ -45,6 +45,9 @@ TOEI-ANIMATION-3D-Layout-UEは、Unreal Engine 5を使用してアニメ制作�
 
 <img width = "800" src="Readme/Images/image2.png">
 
+[ta3DLayoutUE.DEMO.zip]
+(https://github.com/ToeiAnimation/ToeiAnimation-3D-Layout-UE/releases/download/ta3DLayoutUE-1.0.0/ta3DLayoutUE.DEMO.zip)
+
 # プロジェクトを使用する
 
 UE5プロジェクトを使用することで、エディタでの3Dレイアウトの作成や、パッケージ版アプリケーションを作成することができます。  
