@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ShiftLensCamera.cpp.obj": [
+			"ShiftLensCamera.init.gen.cpp.obj",
+			"ShiftLensCineCameraActor.gen.cpp.obj",
+			"ShiftLensCineCameraComponent.gen.cpp.obj",
+			"ShiftLensCamera.cpp.obj",
+			"ShiftLensCineCameraActor.cpp.obj",
+			"ShiftLensCineCameraComponent.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ShiftLensCamera.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\works\ue\MyPluginX\Intermediate\Build\Win64\x64\MyPluginXEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"D:\works\ue\MyPluginX\Plugins\ShiftLensCamera\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShiftLensCamera\Module.ShiftLensCamera.cpp.obj"
+"D:\works\ue\MyPluginX\Plugins\ShiftLensCamera\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShiftLensCamera\Default.rc2.res"
+/OUT:"D:\works\ue\MyPluginX\Plugins\ShiftLensCamera\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShiftLensCamera\UnrealEditor-ShiftLensCamera.lib"

@@ -1,0 +1,34 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\works\\ue\\mypluginx\\plugins\\shiftlenscamera\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\shiftlenscamera\\module.shiftlenscamera.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\works\\ue\\mypluginx\\intermediate\\build\\win64\\x64\\mypluginxeditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\works\\ue\\mypluginx\\plugins\\shiftlenscamera\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\shiftlenscamera\\definitions.shiftlenscamera.h",
+            "d:\\works\\ue\\mypluginx\\plugins\\shiftlenscamera\\intermediate\\build\\win64\\unrealeditor\\inc\\shiftlenscamera\\uht\\shiftlenscamera.init.gen.cpp",
+            "d:\\works\\ue\\mypluginx\\plugins\\shiftlenscamera\\intermediate\\build\\win64\\unrealeditor\\inc\\shiftlenscamera\\uht\\shiftlenscinecameraactor.gen.cpp",
+            "d:\\works\\ue\\mypluginx\\plugins\\shiftlenscamera\\source\\shiftlenscamera\\public\\shiftlenscinecameraactor.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\cinematiccamera\\public\\cinecameraactor.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\camera\\cameraactor.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\cameraactor.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\cinematiccamera\\uht\\cinecameraactor.generated.h",
+            "d:\\works\\ue\\mypluginx\\plugins\\shiftlenscamera\\intermediate\\build\\win64\\unrealeditor\\inc\\shiftlenscamera\\uht\\shiftlenscinecameraactor.generated.h",
+            "d:\\works\\ue\\mypluginx\\plugins\\shiftlenscamera\\intermediate\\build\\win64\\unrealeditor\\inc\\shiftlenscamera\\uht\\shiftlenscinecameracomponent.gen.cpp",
+            "d:\\works\\ue\\mypluginx\\plugins\\shiftlenscamera\\source\\shiftlenscamera\\public\\shiftlenscinecameracomponent.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\cinematiccamera\\public\\cinecameracomponent.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\camera\\cameracomponent.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\cameracomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\cinematiccamera\\public\\cinecamerasettings.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\cinematiccamera\\uht\\cinecamerasettings.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\cinematiccamera\\uht\\cinecameracomponent.generated.h",
+            "d:\\works\\ue\\mypluginx\\plugins\\shiftlenscamera\\intermediate\\build\\win64\\unrealeditor\\inc\\shiftlenscamera\\uht\\shiftlenscinecameracomponent.generated.h",
+            "d:\\works\\ue\\mypluginx\\plugins\\shiftlenscamera\\source\\shiftlenscamera\\private\\shiftlenscamera.cpp",
+            "d:\\works\\ue\\mypluginx\\plugins\\shiftlenscamera\\source\\shiftlenscamera\\public\\shiftlenscamera.h",
+            "d:\\works\\ue\\mypluginx\\plugins\\shiftlenscamera\\source\\shiftlenscamera\\private\\shiftlenscinecameraactor.cpp",
+            "d:\\works\\ue\\mypluginx\\plugins\\shiftlenscamera\\source\\shiftlenscamera\\private\\shiftlenscinecameracomponent.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
